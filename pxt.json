@@ -1,5 +1,5 @@
 {
-    "name": "Test",
+    "name": "Minecraft Education Lesson-1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -21,5 +21,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
